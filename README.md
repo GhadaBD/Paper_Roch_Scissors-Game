@@ -1,1 +1,1 @@
-# Paper_Roch_Scissors Game
+# Paper_Rock_Scissors Game
